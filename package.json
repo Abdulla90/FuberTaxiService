@@ -1,0 +1,24 @@
+{
+  "name": "quintype",
+  "version": "1.0.0",
+  "description": "on call taxi services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulla90/FuberTaxiService.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdulla90/FuberTaxiService/issues"
+  },
+  "homepage": "https://github.com/Abdulla90/FuberTaxiService#readme"
+}
